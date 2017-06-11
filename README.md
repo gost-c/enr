@@ -1,5 +1,8 @@
 # enr
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/gost-c/enr)](https://goreportcard.com/report/github.com/gost-c/enr)
+[![Build Status](https://travis-ci.org/gost-c/enr.svg?branch=master)](https://travis-ci.org/gost-c/enr)
+
 > run cmd with envs
 
 ## Usage
