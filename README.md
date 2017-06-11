@@ -7,6 +7,8 @@
 
 ## Usage
 
+[Download](https://github.com/gost-c/enr/releases) the package and put in any `$PATH` folder.
+
 ### before
 ```bash
 # touch test.sh
