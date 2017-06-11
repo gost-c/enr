@@ -19,6 +19,9 @@ $ HELLO=test WORLD=bar bash test.sh
 #   bar
 ```
 ### after
+
+`enr` will load file `.env` in `pwd` folder as envs. You can see [.env.example](./.env.example)
+
 ```bash
 # touch test.sh
 $ echo -e "echo \$HELLO\necho \$WORLD" > test.sh
