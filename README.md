@@ -34,6 +34,12 @@ $ enr bash test.sh
 #   bar
 ```
 
+#### use custom config
+
+```bash
+$ enr -c="yourCustomConfig" bash test.sh
+```
+
 ## License
 
 MIT &copy; zcong1993
